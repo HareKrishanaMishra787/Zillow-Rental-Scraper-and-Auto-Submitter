@@ -11,8 +11,9 @@ This Python project scrapes rental property data—addresses, prices, and links�
 - Fully automated workflow to extract and organize rental listings efficiently.
 
 ## 📸 Demo
-
+<img src = "https://github.com/user-attachments/assets/5b3639b0-18f6-47cc-94f9-f818919da9e4" width = "800">
 <img src = "https://github.com/user-attachments/assets/f21f5280-75a5-4ccb-959c-62baef6f3391" width = "800">
+<img src = "https://github.com/user-attachments/assets/cc63c38c-69bd-42b6-8369-08de1516b6f6" width = "800">
 
 > Automatically filling out Google Forms with real-time scraped data.
 
